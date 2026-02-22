@@ -39,7 +39,7 @@ This is achieved using **Fully Homomorphic Encryption (FHE)**, allowing computat
 
 ---
 
-### 📊 Performance Results — CKKS
+### Performance Results — CKKS
 
 | Dataset Size (N) | Encryption (s) | Analysis (s) | Decryption (s) | Difference (%) | Total Time (s) |
 |------------------|----------------|---------------|-----------------|----------------|----------------|
